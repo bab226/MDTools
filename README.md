@@ -1,6 +1,6 @@
 # MDTools
 
-
+Scripts using MDAnalysis and MDTraj to analyze MD simulations.
 
 1. dssp_rg_and_ree_mdtraj.py has the code to calculate secondary structure, radius of gyration, and end-to-end-distance, as well as other biophysical metrics.
 2. contact_prob_PDF.py has the code to calculate a probability density function of ligand-protein binding on an amino-acid level using the COM of the ligand and the COM of each residue on the protein.
@@ -9,7 +9,7 @@
 
 
 
-Scripts using MDAnalysis and MDTraj to analyze MD simulations
+
 - 👋 Hi, I’m @bab226
 - 👀 I’m a researcher in the Biophysics Department at Yale University. I work in Dr. Zachary Levine's lab (http://www.zachlevine.com/) and am interested in simulating molecular motions for single-molecule experiments and simulations and their sequential analysis.
 - 🌱 I’m currently working on developing our in-house analysis scripts for FCS experiments and analysis.

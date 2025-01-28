@@ -11,8 +11,8 @@ Scripts using MDAnalysis and MDTraj to analyze MD simulations.
 
 
 - 👋 Hi, I’m @bab226
-- 👀 I’m a researcher in the Biophysics Department at Yale University. I work in Dr. Zachary Levine's lab (http://www.zachlevine.com/) and am interested in simulating molecular motions for single-molecule experiments and simulations and their sequential analysis.
-- 🌱 I’m currently working on developing our in-house analysis scripts for FCS experiments and analysis.
+- 👀 I am a computational biophysics researcher. I am interested in simulating molecular motions for single-molecule experiments, predicting various biophysical properties, and generating unique visualizations for complex data analysis.
+- 🌱 I’m currently working on developing our in-house analysis scripts for MD simulations and FCS analysis.
 - 📫 How to reach me: boginb1@gmail.com, https://www.linkedin.com/in/bryan-bogin150/ 
 
 <!---

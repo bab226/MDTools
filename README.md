@@ -9,7 +9,6 @@ Scripts using MDAnalysis and MDTraj to analyze MD simulations.
 
 For more information about use-case and applacations, please refer to: B. A. Bogin and Z. A. Levine, “Drugging Disordered Proteins by Conformational Selection to 
 Inform Therapeutic Intervention” bioRxiv July 6, 2024, p 2024.07.03.601611 (In submission, Journal of Chemical Theory and Computation). https://doi.org/10.1101/2024.07.03.601611.
-![image](https://github.com/user-attachments/assets/3c737c41-9c66-4beb-b356-a0e412f99c71)
 
 
 
